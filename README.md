@@ -1,4 +1,5 @@
-I'm Onimen
+I'm Onimen (Yamamoto Ryotaro).
+
 
 Products
 
@@ -8,5 +9,5 @@ Products
 
 Skills
 
-- Java, Go, Javascript/Typescript
+- Java, Go, Javascript/Typescript, C
 - Vue.js, Svelte.js
