@@ -9,5 +9,5 @@ Products
 
 Skills
 
-- Java, Go, Javascript/Typescript, C
-- Vue.js, Svelte.js
+- Java, Go, Javascript/Typescript, C, C#, Python, Ruby
+- Vue, Svelte, Rails
